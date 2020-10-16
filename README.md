@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Create by Rocketseat during the event <i>Next Level Week</i>.
+  Create by <strong style="color: #7159c1">Rocketseat</strong> during the event <i>Next Level Week#3</i>.
 </p>
 
 ---
