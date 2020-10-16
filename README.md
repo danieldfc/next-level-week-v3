@@ -66,11 +66,17 @@ $ cd mobile && yarn
 Execute o projeto, no android:
 
 ```sh
-$ yarn start:android
+$ yarn android
 ```
 
 Execute o projeto, no ios:
 
 ```sh
-$ yarn start:ios
+$ yarn ios
+```
+
+Execute o projeto, PWA:
+
+```sh
+$ yarn web
 ```
